@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**sillevl/sillevl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joined Github **9** years ago.
 
-Here are some ideas to get you started:
+Since then I pushed **9817** commits, opened **159** issues, submitted **43** pull requests, received **13** stars across **157** personal projects and contributed to **330** public repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Top 8 most used languages across your repositories:
+
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B151.9%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B124.5%25)
+![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B19.6%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B13.5%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B13.2%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.9%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B11.5%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.5%25)
